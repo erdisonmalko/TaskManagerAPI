@@ -24,27 +24,20 @@ Before you begin, ensure you have met the following requirements:
 
 ## Installation
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/Soni912108/TaskManagerAPI.git
-
-
-2. Install the dependencies:
+1. Install the dependencies:
 
    ```bash
     npm install
 
 <br>
-To start the server in development mode, run:
-  
+2 Start the server in development mode, run:
+     
          npm run dev
 
 The server will be running on http://localhost:3001.
 
 ##  Environment Variables
 
-    
 1.Create a .env file in the root directory of your project and add the following variables:
 
          PASSWORD=your_mongodb_password
